@@ -1,5 +1,3 @@
-# Power-BI
-
 # Power BI Projects Repository
 
 Welcome to my Power BI repository! This repository contains a collection of projects that demonstrate data analysis and visualization skills using Power BI. Each project is carefully designed to extract meaningful insights from data and present them through interactive dashboards.
