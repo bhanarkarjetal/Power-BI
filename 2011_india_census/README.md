@@ -36,7 +36,7 @@ This project dives into the 2011 India Census dataset, exploring population dist
 ---
 
 ## 📂 **Data Source**
-- Dataset sourced from [2011 Census of India]([https://www.kaggle.com/](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india/data)).
+- Dataset sourced from [2011 Census of India](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india/data).
 
 ---
 
