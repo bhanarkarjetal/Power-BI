@@ -11,7 +11,7 @@ This project focuses on analyzing the 2011 India Census data to provide a compre
 
 - **Objective**: Analyze demographic metrics such as total population, state area, literacy rates, and sex ratios across Indian states.
 - **Visualizations Used**: Slicers, Pie Charts, Column Charts, and Cards.
-- **Data Source**: [Kaggle](https://www.kaggle.com/)
+- **Data Source**: [2011 Census of India](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india/data).
 
 *(More projects will be added soon.)*
 
