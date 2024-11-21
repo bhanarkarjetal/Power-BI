@@ -13,6 +13,10 @@ This project focuses on analyzing the 2011 India Census data to provide a compre
 - **Visualizations Used**: Slicers, Pie Charts, Column Charts, and Cards.
 - **Data Source**: [2011 Census of India](https://www.kaggle.com/datasets/themrityunjaypathak/2011-census-of-india/data).
 
+### 2. **Average Salary Analysis**
+Average Salary Analysis by Employment Type
+Analyzed average salaries by employment modes (freelance, contract-based, full-time, part-time) across experience levels (intern, entry level, senior and execiutive), job titles, mode of employment (remote, on-site and hybrid) and locations. Visualized data using column charts, pie charts, maps, and filled line charts. 
+
 *(More projects will be added soon.)*
 
 ---
